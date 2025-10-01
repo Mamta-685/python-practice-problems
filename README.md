@@ -26,3 +26,43 @@ Use assert to check assumptions.
 If logic is messy, revert to brute-force first — working brute force is easier to optimize.
 
 Ask: “Which line changes the program state?” Trace that.
+
+
+
+
+
+**************🔹 Daily Workflow (Every new problem you solve)***********
+
+Suppose today you solved palindrome.py.
+
+Write/Save File
+
+Save your file inside the repo folder (project root). Example: palindrome.py.
+
+Commit Changes
+
+Go to VCS → Commit… (or bottom-left Git tab).
+
+Select the file (palindrome.py).
+
+Write a message, e.g. Added palindrome problem solution.
+
+Click Commit (or Commit and Push).
+
+Push to GitHub
+
+If you only committed: Go to VCS → Git → Push.
+
+Confirm → Done ✅.
+
+Now your file is uploaded to your GitHub repo.
+
+🔹 Order of Work Each Day
+
+Create file (like palindrome.py).
+
+Save it inside repo folder.
+
+Commit with a meaningful message.
+
+Push to GitHub.
